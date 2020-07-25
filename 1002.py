@@ -1,9 +1,7 @@
 #URI Online Judge - Iniciantes - 1002
 
-import math
+n = 3.14159
 
-float Raio
+raio = float(input())
 
-Raio = input()
-
-print("A=)
+print("A=" "%.4f" % (n*raio*raio))
