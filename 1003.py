@@ -5,4 +5,4 @@ B = int(input())
 
 SOMA = A + B
 
-print("SOMA = ", SOMA, "\n")
+print("SOMA =", SOMA) #A função print() já printa um \n depois de executada
